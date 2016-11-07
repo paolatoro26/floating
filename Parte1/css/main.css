@@ -1,1 +1,27 @@
+
+div{
+	width: 200px;
+	height: 150px;
+	float: right;
+
+}
+.madre{
+	border:2px solid #C2CACE;
+	width: auto;
+	height: auto;
+}
+
+
+.uno{
+	background-color: #FFFF00
+}
+
+.dos{
+	background-color: #01A9DB
+}
+
+.tres{
+	background-color: #FE2E64
+}
+
 /* Pon tu código css aqui */
