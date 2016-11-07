@@ -1,14 +1,15 @@
-div{
+
+div.uno,div.dos,div.tres{
 	width: 200px;
 	height: 150px;
-	float: right;
-	
-}
+float: right;
 
-#madre{
-	border:5px solid #C2CACE;
-	height: 450px;
-	width: 800px;
+}
+.madre{
+	border:2px solid #C2CACE;
+	width: 700;
+	height: 450;
+	
 }
 
 
