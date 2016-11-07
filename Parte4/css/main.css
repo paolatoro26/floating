@@ -9,14 +9,14 @@ float: right;
 .madre{
 	border:2px solid #C2CACE;
 	width: 700;
-	height: 450;
-	clear: 
+	height: 150;
+
 
 }
+.clearfix:after{clear: both;}
 
 
 
-.madre{clear:both;}
 
 .uno{
 	background-color: #FFFF00
